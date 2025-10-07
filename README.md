@@ -14,3 +14,12 @@ Com executar l'exercici 1 localment:
 També pots executar directament amb:
 
 	php c:\\Users\\Dani\\VSCode\\DesenvolupamentServidor\\danimassopardoModul-0613-M7-Enunciat-2-Setmanes-3-4-\\exercici1.php
+
+Hub d'exercicis
+---------------
+
+Després d'arrencar el servidor integrat de PHP, obre al navegador:
+
+http://localhost:8000/index.php
+
+Aquest "hub" conté enllaços directes a cada exercici (exercici1..exercici5) per facilitar la navegació.
